@@ -16,3 +16,12 @@ p {
 .img {
     text-align: center;
 }
+
+.button {
+    text-decoration: none;
+    padding: 10px 10px;
+    color: darksalmon;
+    border: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+}
